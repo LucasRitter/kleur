@@ -1,0 +1,64 @@
+{
+    "name": "Black and Red Test",
+    "author": "Lucas Ritter",
+    "colors": {
+        "black": "#000000",
+        "red": "#FF0000"
+    },
+    "theme": {
+        "tint": {
+            "tint": "$red",
+            "tintDark": "#0088EE",
+            "tintComponent": "$red"
+        },
+        "toolbar": {
+            "background": "$black",
+            "iconIndicator": "$red"
+        },
+        "tabContent": {
+            "background": "$black",
+            "accessoryBackground": "$black"
+        },
+        "layerPanel": {
+            "text": "#FFFFFF",
+            "rows": {
+                "backgroundImage": "none"
+            }
+        },
+        "propertyPanel": {
+            "background": {
+                "default": "$black"
+            },
+            "input": {
+                "border": "$red"
+            }
+        },
+        "canvas": {
+            "background": "$black"
+        },
+        "checkbox": {
+            "background": {
+                "checked": "$red"
+            }
+        },
+        "pathCurve": {
+            "preview": "$red"
+        },
+        "packages": {
+            "title": {
+                "text": "$red",
+                "background": "black"
+            }
+        },
+        "webFrame": {
+            "background": "$black",
+            "title": "$red",
+            "message": "rgba(255, 0, 0, 0.33)"
+        },
+        "tooltip": {
+            "color": "$red",
+            "message": "rgba(255, 0, 0, 0.33)"
+        }
+        
+    }
+}

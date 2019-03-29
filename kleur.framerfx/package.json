@@ -1,0 +1,19 @@
+{
+	"name": "kleur",
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8",
+		"framer": "^0.10.10"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.10",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "ebab0f52-1ecb-4264-a8ad-d78caeda89bd",
+		"displayName": "kleur"
+	},
+	"author": "Lucas Ritter",
+	"version": "1.0.0"
+}
