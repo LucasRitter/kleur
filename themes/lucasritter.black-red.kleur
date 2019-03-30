@@ -23,11 +23,15 @@
             "text": "#FFFFFF",
             "rows": {
                 "backgroundImage": "none"
-            }
+            },
+            "selection": "$red"
         },
         "propertyPanel": {
             "background": {
                 "default": "$black"
+            },
+            "header": {
+                "background": "$black"
             },
             "input": {
                 "border": "$red"
