@@ -1,5 +1,5 @@
 {
-	"name": "kleur",
+	"name": "@framer/lucasritter.kleur",
 	"main": "dist/index.js",
 	"license": "MIT",
 	"devDependencies": {
@@ -15,5 +15,5 @@
 		"displayName": "kleur"
 	},
 	"author": "Lucas Ritter",
-	"version": "1.0.0"
+	"version": "1.2.0"
 }

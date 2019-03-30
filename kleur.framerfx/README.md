@@ -1,5 +1,5 @@
 ## ⚠️ **Before you continue**
-This is a very experimental package. Not everything works yet. Anything you see can and will probably change in the future. 
+This is a **very experimental** package. Not everything works yet. Anything you see can and will probably change in the future. 
 
 ## 🤔 **What is it?** 
 ***kleur*** is a way to give Framer X a more personal touch by allowing **you** to apply themes on a per-project basis. Ever wanted to replace that blue with a light shade of mint green? You can do that in less than a minute!
