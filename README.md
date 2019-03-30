@@ -37,7 +37,5 @@ Follow the documentation on the GitHub repo [here](https://github.com/lucasritte
 
 ## 👋 **Got a question? Talk to me!**
 
-I'm always active on those social media thingys.
-| [![](docs/.assets/twitter.png)](https://twitter.com/coolestcoder) | [![](docs/.assets/telegram.png)](https://t.me/lucasritter) |
-| :---------------------------------------------------------------: | :--------------------------------------------------------: |
-| [@CoolestCoder](https://twitter.com/coolestcoder) | [@LucasRitter](https://t.me/lucasritter) |
+I'm always active on those social media thingys.  
+[![Twitter](docs/.assets/twitter.png)](https://twitter.com/coolestcoder) [![Telegram](docs/.assets/telegram.png)](https://t.me/lucasritter)
