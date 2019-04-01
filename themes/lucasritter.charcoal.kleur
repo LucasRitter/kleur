@@ -1,0 +1,43 @@
+{
+    "name": "Charcoal",
+    "author": "Lucas Ritter",
+    "colors": {
+        "black": "#000000",
+        "charcoal": "#060606",
+        "framerGray": "#121212",
+        "framerBlue": "#0099FF"
+    },
+    "theme": {
+        "toolbar": {
+            "background": "$charcoal"
+        },
+        "layerPanel": {
+            "rows": {
+                "backgroundImage": "none"
+            }
+        },
+        "tabContent": {
+            "accessoryBackground": "$framerGray",
+            "background": "$charcoal"
+        },
+        "propertyPanel": {
+            "background": {
+                "default": "$charcoal"
+            },
+            "header": {
+                "background": "$framerGray"
+            },
+            "input": {
+                "background": "$framerGray",
+                "border": "$framerBlue",
+                "borderInactive": "$black"
+            }
+        },
+        "canvas": {
+            "background": "$black"
+        },
+        "statusBar": {
+            "background": "$charcoal"
+        }
+    }
+}
